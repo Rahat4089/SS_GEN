@@ -1,0 +1,7 @@
+pyrogram
+pymupdf
+opencv-python
+tgcrypto
+numpy<2
+libgl1
+libglib2.0-0
